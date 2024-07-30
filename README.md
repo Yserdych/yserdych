@@ -26,4 +26,4 @@
 
 ### Contributions
 
-🔴[0G]() 🔴[0G]() 🔴[X]() 🔴
+🔴[0G DA Client](https://medium.com/@lopes-noder/install-da-client-0g-bab40f3fd19c) 🔴[0G DA Encoder](https://medium.com/@lopes-noder/install-da-encoder-0g-3dcc129908cf) 🔴[Kyve](https://medium.com/@lopes-noder/lopez-guide-kyve-testnet-2342dc99a5ed) 🔴
