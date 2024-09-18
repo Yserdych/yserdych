@@ -18,8 +18,8 @@
 
 ### Contributions
 
-|🧾[0G DA Client](https://medium.com/@lopes-noder/install-da-client-0g-bab40f3fd19c) |🧾[0G DA Encoder](https://medium.com/@lopes-noder/install-da-encoder-0g-3dcc129908cf) |🧾[Kyve](https://medium.com/@lopes-noder/lopez-guide-kyve-testnet-2342dc99a5ed) | 🧾[Review of 0G](https://medium.com/@lopes-noder/review-of-hackathon-evolution-how-your-suggestions-shape-our-updates-13b73e6d4039) |
-| --- | --- | --- | --- |
+| 🧾[Artela. ERC-20 Token Contract](https://medium.com/@lopes-noder/artela-create-an-erc-20-token-contract-75d8950a820a) |🧾[0G DA Client](https://medium.com/@lopes-noder/install-da-client-0g-bab40f3fd19c) |🧾[0G DA Encoder](https://medium.com/@lopes-noder/install-da-encoder-0g-3dcc129908cf) |🧾[Kyve](https://medium.com/@lopes-noder/lopez-guide-kyve-testnet-2342dc99a5ed) | 🧾[Review of 0G](https://medium.com/@lopes-noder/review-of-hackathon-evolution-how-your-suggestions-shape-our-updates-13b73e6d4039) |
+| --- | --- | --- | --- | --- |
 
 ---
 
