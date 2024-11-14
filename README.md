@@ -6,16 +6,16 @@
 
 |▶️|Namada|◀️| |
 | :---: | :---: | :---: | :---: |
-|▶️|**Nillion**|◀️| |
+|▶️|**Nillion**|◀️| Hide |
 |▶️|**Iron Fish**|◀️|**https://testnet.ironfish.network/users/61433**|
 |▶️|**Celestia**|◀️|**celestiavaloper1ex0994936p0gmzwn3hjwcx4gy0a3822l6fzaey**|
 |▶️|**Gitopia**|◀️|**gitopiavaloper1hz6mz43lptlmft2gce6snwc3gvyp6uw82mg2kp**|
 |▶️|**DeWeb**|◀️|**dewebvaloper1gxqqnlrcu8nzt7tf9jw7nvhzqc66mkklltq4p3**|
-|▶️|**Allora**|◀️| |
-|▶️|**Particle**|◀️| |
-|▶️|**Airchains**|◀️| |
-|▶️|**Nubit**|◀️| |
-|▶️|**Nesa**|◀️| |
+|▶️|**Allora**|◀️| Hide |
+|▶️|**Particle**|◀️| Hide |
+|▶️|**Airchains**|◀️| Hide |
+|▶️|**Nubit**|◀️| Hide |
+|▶️|**Nesa**|◀️| Hide |
 
 ### Contributions
 
