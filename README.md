@@ -4,7 +4,7 @@
 
 ### Networks
 
-|▶️|Namada|◀️| |
+|▶️|Namada|◀️| Hide |
 | :---: | :---: | :---: | :---: |
 |▶️|**Nillion**|◀️| Hide |
 |▶️|**Iron Fish**|◀️|**https://testnet.ironfish.network/users/61433**|
